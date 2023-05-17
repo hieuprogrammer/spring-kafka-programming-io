@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5432/wikimedia-recent-changes
+    url: jdbc:postgresql://localhost:5432/spring-kafka
     username: postgres
     password: postgres
   jpa:
